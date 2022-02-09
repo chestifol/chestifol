@@ -1,6 +1,6 @@
 ### Hi Guys 👋  
 My name is Fadhilah Winarno and I'm mostly a front-end developer.  
-I'm currently studying at **univeristy of udayana** for my bachelor degree for Technologies.  
+I'm currently studying at **Univeristy of Udayana** for my bachelor degree in Technologies.  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chestifol&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chestifol&layout=compact&theme=gotham&custom_title=Statistics)  
@@ -13,7 +13,6 @@ I'm currently studying at **univeristy of udayana** for my bachelor degree for T
 ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
 
 Are you interested in collaboration? I'm up to any inspiring projects.   <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
 Get in touch with me through the attached links:  
