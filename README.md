@@ -3,11 +3,11 @@ My name is Fadhilah Winarno and I'm mostly a front-end developer.
 I'm currently studying at **Univeristy of Udayana** for my bachelor degree in Technologies.  
 
 <a href="https://github.com/chestifol">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chestifol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chestifol&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chestifol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chestifol&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-![ViewCount](https://komarev.com/ghpvc/?username=chestifolt&color=1A4730)
+![ViewCount](https://komarev.com/ghpvc/?username=chestifol&color=1A4730)
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
