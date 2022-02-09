@@ -2,12 +2,11 @@
 My name is Fadhilah Winarno and I'm mostly a front-end developer.  
 I'm currently studying at **Univeristy of Udayana** for my bachelor degree in Technologies.  
 
-<p align="left">
 <a href="https://github.com/chestifol">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chestifol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chestifol&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+
 ![ViewCount](https://komarev.com/ghpvc/?username=chestifolt&color=1A4730)
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -18,7 +17,7 @@ I'm currently studying at **Univeristy of Udayana** for my bachelor degree in Te
 ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 
-Are you interested in collaboration? I'm up to any inspiring projects.   <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
+Are you interested in collaboration? I'm up to any inspiring projects.   
 Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/fadhilah-winarno/">
